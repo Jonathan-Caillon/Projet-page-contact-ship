@@ -1,0 +1,18 @@
+body {
+    background-size: cover;
+    background-image:  linear-gradient(to right,rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),
+    url("./container.jpg"); 
+}
+
+.contact {
+    text-align: center;
+    margin: 100px auto;
+    color: orange;
+}
+
+.intro {
+    text-align: center;
+    margin: auto;
+    max-width: 600px;
+    color: white;
+}
