@@ -24,6 +24,10 @@ body {
     display: flex;
 }
 
+a {
+    color: white;
+}
+
 .cercle {
     margin-top: 50px;
     margin-bottom: 50px;
